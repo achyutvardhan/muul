@@ -1,0 +1,28 @@
+.ext-bar{
+    width: 100%;
+    border: 1px solid #282727;
+    border-radius: 10px;
+    background-color: #282727;
+}
+.int-bar{
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+   justify-content: space-evenly;
+   padding: 5px;
+}
+
+ul{
+    list-style-type:none ;
+}
+li{
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style:normal;
+    font-size: 16px;
+}
+
+li:hover{
+    color: black;
+    font-weight: 400;
+}

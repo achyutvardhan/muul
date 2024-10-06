@@ -1,0 +1,16 @@
+.dash-external{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+.pie-bar{
+    display: flex;
+    flex-direction: row;
+}
+
+.pie{
+    width: 100px
+}
